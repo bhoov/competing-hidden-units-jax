@@ -3,3 +3,4 @@ matplotlib
 datasets
 tyro
 jaxtyping
+fastcore
