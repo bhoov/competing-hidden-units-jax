@@ -1,5 +1,7 @@
 # Unsupervised Learning by Competing Hidden Units, in JAX
 
+**WIP**
+
 ## Installation
 ```
 pip install -r requirements.txt
